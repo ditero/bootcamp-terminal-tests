@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo .node_modules/bin/mocha && exit 1"
+    "test": "node_modules/mocha/bin/mocha"
   },
   "repository": {
     "type": "git",
